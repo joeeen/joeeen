@@ -51,6 +51,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
 <p align="center">
    I’m currently learning..
   <br> <br>
+  <img src="https://github.com/joeeen/joeeen/assets/118897487/bbd68957-3c15-49f5-a370-c31a929858ec" height=28>
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
 <img src="https://img.shields.io/badge/Testrail-white?style=for-the-badge&logo=testrail">
 <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white">
@@ -61,6 +62,9 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
   I've been learning from..
   <br>
   <br>
+ <img src="https://github.com/joeeen/joeeen/assets/118897487/488b2f01-981d-431d-9115-d3113a796d13" height=28>
+<img src="https://github.com/joeeen/joeeen/assets/118897487/850c9933-cc99-4d51-979c-b527befc7c1a" height=28>
+
 <img src="https://github.com/joeeen/joeeen/assets/118897487/71fae9ba-3579-4c6f-8b17-6e1143e6d55e" height=28>
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 <img src="https://img.shields.io/badge/Hackerrank-0d141e?style=for-the-badge&logo=hackerrank">
