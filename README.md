@@ -20,6 +20,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://github.com/joeeen/joeeen/assets/118897487/c07d3b53-57cc-4cf4-81d6-8e358df2b187" height=28>
+  <br>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     <img src="https://github.com/joeeen/joeeen/assets/118897487/1524388f-7c27-4919-ba6c-fe86f01104d6" height=28>
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
