@@ -14,14 +14,14 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
 <br>
 
 <h2 align="center">🛠️ Tools and Frameworks</h2>
+
 <p align="center">
-  For testing~<br>
-    <img src="https://github.com/joeeen/joeeen/assets/118897487/67083564-39ab-4b65-acaa-5c09e5178492" height=28>
+    <img src="https://github.com/joeeen/joeeen/assets/118897487/94dcffa9-b015-4ef8-aab0-1864641cdce9" height=28>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img src="https://github.com/joeeen/joeeen/assets/118897487/96885c32-2923-4109-88d9-6b30404f924d" height=28>
+    <img src="https://github.com/joeeen/joeeen/assets/118897487/c07d3b53-57cc-4cf4-81d6-8e358df2b187" height=28>
     <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
-    <img src="https://github.com/joeeen/joeeen/assets/118897487/b7b9b284-089c-41eb-9b36-d2f0d1943f73" height=28>
+    <img src="https://github.com/joeeen/joeeen/assets/118897487/1524388f-7c27-4919-ba6c-fe86f01104d6" height=28>
     <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
     <img src="https://img.shields.io/badge/Chai-F4ECDC?style=for-the-badge&logo=chai&logoColor=8B2115">
     <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white">
@@ -30,7 +30,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
   For management~<br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello">
-  <img src="https://github.com/joeeen/joeeen/assets/118897487/f8f6fb05-0be7-4da5-b02f-1f96aab7b199" height=28>
+  <img src="https://github.com/joeeen/joeeen/assets/118897487/6c9101a9-a2b7-4738-8b58-9521a41f9920" height=28>
 </p>
 <p align="center">
   Others~<br>
@@ -60,7 +60,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
   I've been learning from..
   <br>
   <br>
-<img src="https://github.com/joeeen/joeeen/assets/118897487/771b2d55-1ef5-4c0e-a8c2-78d092b76d03" height=28>
+<img src="https://github.com/joeeen/joeeen/assets/118897487/71fae9ba-3579-4c6f-8b17-6e1143e6d55e" height=28>
 <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
 <img src="https://img.shields.io/badge/Hackerrank-0d141e?style=for-the-badge&logo=hackerrank">
 <img src="https://img.shields.io/badge/Sololearn-white?style=for-the-badge&logo=sololearn">
