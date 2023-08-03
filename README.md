@@ -1,3 +1,7 @@
+
+[![Linkedin Badge](https://img.shields.io/badge/-Joanna-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joanna-qa/)](https://www.linkedin.com/in/joanna-qa/)
+[![Gmail Badge](https://img.shields.io/badge/-joannasqae@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joannasqae@gmail.com)](mailto:joannasqae@gmail.com)
+
 ### Hi there 👋
 
 <!--
