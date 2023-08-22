@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Joanna</h1>
 <p align="center">
-I'm a Quality Assurance Engineer with a genuine passion for software testing.<br>Manual or automated, I enjoy every aspect of testing, and my enthusiasm
-  <br>for technology and its innovations drives me to excel in my role.
+I'm a Quality Assurance Engineer with a genuine passion for software testing.<br>I enjoy every aspect of testing, and my enthusiasm
+  for technology <br>and its innovations drives me to excel in my role.
   <br>
 </p>
 
