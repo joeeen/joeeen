@@ -52,7 +52,6 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
    I’m currently learning..
   <br> <br>
   <img src="https://github.com/joeeen/joeeen/assets/118897487/bbd68957-3c15-49f5-a370-c31a929858ec" height=28>
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
 <img src="https://img.shields.io/badge/Testrail-white?style=for-the-badge&logo=testrail">
 
 </p>
