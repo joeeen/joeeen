@@ -44,8 +44,16 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <br>
 </p>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeeen&layout=compact">
+</p>
+
 <br>
+
+
 
 <h2 align="center">🌱 Growth</h2>
 <p align="center">
