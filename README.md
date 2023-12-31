@@ -35,6 +35,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
 </p>
 <p align="center">
   Others~<br>
+  <img src="https://github.com/joeeen/joeeen/assets/118897487/bbd68957-3c15-49f5-a370-c31a929858ec" height=28>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -57,7 +58,7 @@ I'm a Quality Assurance Engineer with a genuine passion for software testing.<br
 <p align="center">
    I’m currently learning..
   <br> <br>
-  <img src="https://github.com/joeeen/joeeen/assets/118897487/bbd68957-3c15-49f5-a370-c31a929858ec" height=28>
+CS50 - 
 <img src="https://img.shields.io/badge/Testrail-white?style=for-the-badge&logo=testrail">
 
 </p>
